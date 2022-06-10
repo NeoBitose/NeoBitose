@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">My Name Alif Ramadhan</h1>
 <h3 align="center">Junior Developer :person_fencing:</h3>
 
-<br><br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
