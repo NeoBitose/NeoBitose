@@ -12,7 +12,7 @@
   
 <br>
 
-Thank's
+Thank's for visiting my page
   
 <!--
 **NeoBitose/NeoBitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
