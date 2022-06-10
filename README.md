@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 <h1 align="center">My Name Alif Ramadhan</h1>
-<h3 align="center">Web Developer :person_fencing:</
+<h3 align="center">Junior Developer :person_fencing:</
 
+
+- 🔭 I'm learning design & web programming
+- 👓 I'm passionate about programming & i enjoy learning new things
+- 📫 you can contact me at ramadhanalif430@gmail.com
+  
+thank's
+  
 <!--
 **NeoBitose/NeoBitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
