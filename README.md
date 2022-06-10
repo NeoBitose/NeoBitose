@@ -3,11 +3,14 @@
 <h1 align="center">My Name Alif Ramadhan</h1>
 <h3 align="center">Junior Developer :person_fencing:</h3>
 
+<br><br>
 
 - 🔭 I'm learning design & web programming
 - 👓 I'm passionate about programming & i enjoy learning new things
 - 📫 you can contact me at ramadhanalif430@gmail.com
   
+<br>
+
 thank's
   
 <!--
