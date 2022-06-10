@@ -5,9 +5,9 @@
 
 <br><br>
 
-- 🔭 I'm learning design & web programming
-- 👓 I'm passionate about programming & i enjoy learning new things
-- 📫 you can contact me at ramadhanalif430@gmail.com
+🔭 I'm learning design & web programming
+👓 I'm passionate about programming & I enjoy learning new things
+📫 you can contact me at ramadhanalif430@gmail.com
   
 <br>
 
