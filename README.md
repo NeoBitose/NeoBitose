@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">My Name Alif Ramadhan</h1>
-<h3 align="center">Junior Developer :person_fencing:</
+<h3 align="center">Junior Developer :person_fencing:</h3>
 
 
 - 🔭 I'm learning design & web programming
