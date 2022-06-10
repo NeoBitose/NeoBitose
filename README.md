@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, My Name Alif Ramadhan</h1>
+<h1 align="center">My Name Alif Ramadhan</h1>
 <h3 align="center">Web Developer :person_fencing:</
 
 <!--
