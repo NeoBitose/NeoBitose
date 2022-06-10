@@ -5,9 +5,12 @@
 
 <br><br>
 
-🔭 I'm learning design & web programming
-👓 I'm passionate about programming & I enjoy learning new things
-📫 you can contact me at ramadhanalif430@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
+
+
+- 🔭 I'm learning design & web programming
+- 👓 I'm passionate about programming & I enjoy learning new things
+- 📫 you can contact me at ramadhanalif430@gmail.com
   
 <br>
 
