@@ -1,5 +1,5 @@
 <h1 align="center">My Name Alif Ramadhan</h1>
-<h3 align="center">Junior Developer :person_fencing:</h3>
+<h3 align="center">Junior Programmer :person_fencing:</h3>
 
 <br>
 
