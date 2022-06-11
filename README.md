@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="center" alt="Coding" width="200" src="https://drive.google.com/file/d/18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb">
+<p align="left"><img align="center" alt="Coding" width="200" src="https://drive.google.com/file/d/18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb/view?usp=sharing"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
