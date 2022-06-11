@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="center" alt="Coding" width="200" src="https://www.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_11671412.htm#query=computer&position=0&from_view=keyword">
+<img align="center" alt="Coding" width="200" src="https://drive.google.com/file/d/18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
