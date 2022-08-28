@@ -1,10 +1,11 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)
 <h1 align="center">My Name Alif Ramadhan</h1>
-<h3 align="center">Junior Programmer :person_fencing:</h3>
 
 <br>
 
+<!--
 <p align="center"><img align="center" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb" /></p>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
