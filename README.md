@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1hPCx2wm10POl1IGXowQ8QeRMx_j-hgZe)](https://neobitose.io) 
+[![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)
 <h1 align="center">My Name Alif Ramadhan</h1>
 <h3 align="center">Junior Programmer :person_fencing:</h3>
 
@@ -9,11 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
 
-- 🔭 I'm learning design & web programming
+- 🔭 I'm learning Analyst, design & programming
 - 👓 I'm passionate about programming & I enjoy learning new things
 - 📫 you can contact me at ramadhanalif430@gmail.com
   
 <br>
+
 
 Thank's for visiting my page
   
