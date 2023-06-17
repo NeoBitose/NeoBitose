@@ -1,5 +1,5 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)
-<h1 align="center">My Name Alif Ramadhan</h1>
+<!--[![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)-->
+<h1 align="center">Alif Ramadhan a.k.a NeoBitose</h1>
 
 <br>
 
