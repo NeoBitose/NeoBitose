@@ -1,15 +1,16 @@
 <!--[![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)-->
-<h1 align="center">Alif Ramadhan A.K.A NeoBitose</h1>
+<h1 align="center">Ahmad Alif Ramadhan ~ NeoBitose</h1>
 
 <br>
 
-<p align="center"><img align="center" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb" /></p>
+<!--<p align="center"><img align="center" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=18PuSM2zwnIIIjeTBIqBvlACpt4G0Idfb" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoBitose&label=Profile%20views&color=0e75b6&style=flat" alt="aliframadhan" /> </p>
 
 
 - 🔭 I'm learning Analyst, design & programming
 - 👓 I'm passionate about programming & I enjoy learning new things
+- ⚡ Sleeping, college, and coding
 - 📫 you can contact me at ramadhanalif430@gmail.com
   
 <br>
@@ -40,7 +41,7 @@
 </p>
 
 
-Thank's for visiting my page
+Thank's for visiting my github
   
 <!--
 **NeoBitose/NeoBitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
