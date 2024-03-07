@@ -48,13 +48,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>-->
-<!-- 
-<h3>Design</h3>
+ 
+<h3>Social Media</h3>
 <p>
-  <img src="https://img.shields.io/badge/Adobe Ilustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>-->
+  <a href="https://twitter.com/neobitose_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/alif_ramadhaann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alif-ramadhaann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=figma&logoColor=white" /></a>
+</p>
 <!-- <h4>Languages & tools</h4> -->
 <p align="left">
 <!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   
