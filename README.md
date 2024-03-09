@@ -53,7 +53,7 @@
 <p>
   <a href="https://twitter.com/neobitose_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/alif_ramadhaann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alif-ramadhaann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alif-ramadhaann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedln-0A66C2?style=for-the-badge&logo=figma&logoColor=white" /></a>
 </p>
 <!-- <h4>Languages & tools</h4> -->
 <p align="left">
