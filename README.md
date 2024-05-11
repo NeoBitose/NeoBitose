@@ -2,7 +2,7 @@
 <!--[![MasterHead](https://drive.google.com/uc?export=view&id=1abTIe_SF50sPhIHyKnkCdPxLXtt7-RS9)](https://neobitose.io)-->
 <p align="center"> <img src="https://drive.google.com/uc?export=view&id=1phrYqIWgVb5QOvt6jHAKcA0zspCy2ppE" width="80%" alt="aliframadhan" /> </p>
 
-<h1 align="center">Ahmad Alif Ramadhan ~ NeoBitose</h1>
+<h1 align="center">Ahmad Alif Ramadhan or NeoBitose</h1>
 
 <br>
 
@@ -14,7 +14,8 @@
 - 🔭 I'm learning Analyst, design & programming
 - 👓 I'm passionate about programming & I enjoy learning new things
 - ⚡ Sleeping, college, and coding
-- 📫 you can contact me at ramadhanalif430@gmail.com
+- 🌱 You can clone my code anytime
+- 📫 Business, collaboration ? you can contact me at ramadhanalif430@gmail.com
   
 <br>
 <!-- <h3>Programming</h3>
