@@ -56,9 +56,13 @@
 
 <br>
 
+<h3>Github Langs</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBitose&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NeoBitose)
+
 <h3>Github Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NeoBitose&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeoBitose&theme=tokyonight)](https://github.com/NeoBitose)
 
 <!-- <h4>Languages & tools</h4> -->
 <!--<p align="left">
