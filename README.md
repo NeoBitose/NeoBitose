@@ -9,7 +9,7 @@
 
 - 🔭 I'm learning Analyst, design & programming
 - 👓 I'm passionate about programming & I enjoy learning new things
-- ⚡ Sleeping, college, and coding
+- ⚡ Sleeping, attending college, and coding
 - 🌱 You can clone my code anytime
 - 📫 Business, collaboration ? you can contact me at ramadhanalif430@gmail.com
   
@@ -58,7 +58,7 @@
 
 <h3>Github Langs</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBitose&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NeoBitose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBitose&hide_progress=true&layout=compact&theme=tokyonight&show_icons=true&langs_count=14&hide=CMake,shell,perl)](https://github.com/NeoBitose)
 
 <h3>Github Stats</h3>
 
@@ -89,8 +89,7 @@
 </p>-->
 
 <br>
-<br>
-Thank's for visiting my github
+<h3>Thank's for visiting my github✨</h3>
   
 <!--
 **NeoBitose/NeoBitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
