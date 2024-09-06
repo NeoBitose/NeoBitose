@@ -56,13 +56,16 @@
 
 <br>
 
+<!--
 <h3>Github Langs</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBitose&hide_progress=true&layout=compact&theme=tokyonight&show_icons=true&langs_count=14&hide=CMake,shell,perl)](https://github.com/NeoBitose)
 
 <h3>Github Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NeoBitose&theme=tokyonight)](https://github.com/NeoBitose)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeoBitose&theme=tokyonight)](https://github.com/NeoBitose) 
+
+-->
 
 <!-- <h4>Languages & tools</h4> -->
 <!--<p align="left">
