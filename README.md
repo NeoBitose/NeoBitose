@@ -50,8 +50,8 @@
 <h3>Social Media</h3>
 <p>
   <a href="https://twitter.com/neobitose_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/alif_ramadhaann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alif-ramadhaann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedln-0A66C2?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://www.instagram.com/alif_ramadhaann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alif-ramadhaann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <br>
@@ -91,8 +91,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>-->
 
-<br>
 <h3>Thank's for visiting my github✨</h3>
+<br>
   
 <!--
 **NeoBitose/NeoBitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
