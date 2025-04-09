@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://drive.google.com/uc?export=view&id=1XeWsBpKP9h9xj74uEFke8uKyeIsWv2o4)](https://neobitose.io)-->
 <!--[![MasterHead](https://drive.google.com/uc?export=view&id=1abTIe_SF50sPhIHyKnkCdPxLXtt7-RS9)](https://neobitose.io)-->
-<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1phrYqIWgVb5QOvt6jHAKcA0zspCy2ppE" width="80%" alt="aliframadhan" /> </p>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1-kIPeOIYp3E1IZYA7kScrZWhPzvsQIIR" width="80%" alt="aliframadhan" /> </p>
 <h1 align="center">Ahmad Alif Ramadhan or NeoBitose</h1>
 <br>
 
